@@ -1,4 +1,4 @@
-# ADS Project 1: Happiness Source: External or Internal  
+# ADS Project 1: What made you happy today?
 ### Doc folder
 
 **Files in this folder:**<br/>
@@ -9,7 +9,7 @@
 - Step1: Run Text_Processing.Rmd
 - Steps2: Run codes in Analysis.ipynb
 
-## Report  
+## Report: Happiness Source: External or Internal  
 This project aims to analysis the sources where people gain happiness from, which is inspired by the popular MBTI personality test. In the MBTI test, we would find out how our attitudes would be, i.e. Introversion or Extraversion. Introvert people seek energy inwards, and outrovert people receive energy outwards. This difference has inspired me to inspect happiness experience from the perspective of source. To be specific, this project will address the following questions:   
 1. Do people more likely to gain happniess from external sources or internal sources?  
 2. How do the scources people gain happiness from differ with gender/age/marital/parenthood status as well as reflection period?  

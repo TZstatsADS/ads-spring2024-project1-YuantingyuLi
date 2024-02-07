@@ -1,5 +1,5 @@
 # Applied Data Science @ Columbia
-## Fall 2023
+## Spring 2024
 ## Project 1: What made you happy today?
 
 ### [Project Description](doc/Proj1_desc.md)
