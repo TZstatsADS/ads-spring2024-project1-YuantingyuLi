@@ -1,11 +1,11 @@
 # ADS Project 1: Happiness Source: External or Internal  
 ### Doc folder
 
-**Files in this folder:**
+**Files in this folder:**<br/>
 Text_Processing.Rmd: preprocessing data and generate processed_moments.csv<br/>  
 Analysis.ipynb: analysis data and present the data story<br/>  
 
-**How to replicate:**
+**How to replicate:**<br/>
 Step1: Run Text_Processing.Rmd<br/>  
 Steps2: Run codes in Analysis.ipynb<br/>  
 
