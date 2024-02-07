@@ -2,12 +2,12 @@
 ### Doc folder
 
 **Files in this folder:**
-Text_Processing.Rmd: preprocessing data and generate processed_moments.csv  
-Analysis.ipynb: analysis data and present the data story  
+Text_Processing.Rmd: preprocessing data and generate processed_moments.csv<br/>  
+Analysis.ipynb: analysis data and present the data story<br/>  
 
 **How to replicate:**
-Step1: Run Text_Processing.Rmd  
-Steps2: Run codes in Analysis.ipynb  
+Step1: Run Text_Processing.Rmd<br/>  
+Steps2: Run codes in Analysis.ipynb<br/>  
 
 ## Report  
 This project aims to analysis the sources where people gain happiness from, which is inspired by the popular MBTI personality test. In the MBTI test, we would find out how our attitudes would be, i.e. Introversion or Extraversion. Introvert people seek energy inwards, and outrovert people receive energy outwards. This difference has inspired me to inspect happiness experience from the perspective of source. To be specific, this project will address the following questions:   
@@ -120,3 +120,8 @@ Preview of the identification result:
   </tbody>
 </table>
 </div>
+
+#### Step 2: Visualize the result
+**Pie Chart**  
+By adopting pie chart we could observe that almost 70% of happiness experience are external sourced, while the rest 30% are internally sourced.
+![alt text](../figs/source_piechart.png)
