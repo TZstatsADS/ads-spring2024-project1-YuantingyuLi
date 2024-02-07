@@ -1,5 +1,4 @@
-# ADS Project 1: What made you happy today?
+# ADS Project 1: Happiness Source: External or Internal  
 ### Code lib Folder
 
-The lib directory contains various files with function definitions (but only function definitions - no code that actually runs).
-
+See doc\Analysis.ipynb for codes and analysis.
