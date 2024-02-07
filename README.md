@@ -8,7 +8,7 @@ This is the first and only *individual* (as opposed to *team*) this semester.
 Term: Spring 2024
 
 + Projec title: Happiness Source: External or Internal
-+ This project is conducted by [Yuantingyu Li]
++ This project is conducted by Yuantingyu Li
 
 + Project summary: This project aims to analysis the sources where people gain happiness from, which is inspired by the popular MBTI personality test. In the MBTI test, we would find out how our attitudes would be, i.e. Introversion or Extraversion. Introvert people seek energy inwards, and outrovert people receive energy outwards. This difference has inspired me to inspect happiness experience from the perspective of source. To be specific, this project will address the following questions:   
     1. Do people more likely to gain happniess from external sources or internal sources?  
