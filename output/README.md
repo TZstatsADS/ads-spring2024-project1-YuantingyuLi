@@ -1,4 +1,4 @@
-# ADS Project 1: What made you happy today?
+# ADS Project 1: Happiness Source: External or Internal  
 ### Output folder
 
 The output directory contains analysis output, processed datasets, logs, or other processed things.
