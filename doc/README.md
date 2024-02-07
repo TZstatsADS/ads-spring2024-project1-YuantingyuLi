@@ -124,4 +124,5 @@ Preview of the identification result:
 #### Step 2: Visualize the result
 **Pie Chart**  
 By adopting pie chart we could observe that almost 70% of happiness experience are external sourced, while the rest 30% are internally sourced.
+
 ![alt text](../figs/source_piechart.png)
