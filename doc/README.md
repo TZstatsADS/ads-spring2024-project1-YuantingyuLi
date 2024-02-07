@@ -21,20 +21,8 @@ We first need to identify the happiness sources mentioned in the text. Here, int
 
 The happy moments in our data have already been devided into seven different categories, which are affection, achievement, enjoy the moment, bonding, leisure, nature and exercise. By common sense, we could generally infer that happiness categorized as bonding and affection are externally sourced, while the one in achievement and nature is more likely to be internally sourced. For thoes moments in other three categories, both way could be possible. 
 
-<div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
+Preview of the identification result:
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
