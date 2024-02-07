@@ -126,3 +126,59 @@ Preview of the identification result:
 By adopting pie chart we could observe that almost 70% of happiness experience are external sourced, while the rest 30% are internally sourced.
 
 ![alt text](../figs/source_piechart.png)
+
+#### Step 3: Topics identification
+**Word Cloud**  
+The two different word clouds suggest that people generally gain happiness externally when they are around their close ones, such as families and partners, and gain happiness internally when they making personal achievements, feeling materially satisfied, or having enjoyable experiences.
+
+![alt text](../figs/source_wordcloud.png)
+
+**LDA**  
+Based on the topic distributions for both external and internal sources, we can identify the following topics:  
+
+External:    
+- Social Activities: This topic seems to be associated with social gatherings and activities, such as spending time with friends, having dinner, playing games, etc.  
+- Celebrations and Events: This topic appears to involve events and celebrations, such as birthdays, surprises, gifts, etc.  
+- Family and Home: This topic revolves around family-related activities and home-related experiences.  
+- Emotional Moments: This topic seems to encompass emotional moments and expressions of feelings.  
+
+Internal:  
+- Home and Dining: This topic appears to involve activities related to home and dining experiences.  
+- Material Satisfaction: This topic relate to spending, purchasing and feel material satisfied.  
+- Leisure and Relaxation: This topic appears to involve leisure activities and relaxation experiences.
+- Entertainment and Recreation: This topic seems to encompass experiences related to playing games, watching videos, going for walks, etc.
+
+### Q2: how do the sources people gain happiness from differ with gender/age/marital/parenthood status as well as reflection period? 
+**Reflection Period**  
+The result suggest that reflection period seems not influence the source of happiness
+
+![alt text](../figs/ref_period_piechart.png)
+
+**Parenthood**  
+The proportion of internally sourced happiness is lower for parents compared to those are not, which is consistent with our expectations. 
+
+![alt text](../figs/parenthood_piechart.png)
+
+**Gender**  
+Compared to other different genders, females respondents have a larger proportion of happiness gained from external sources.
+
+![alt text](../figs/gender_piechart.png)
+
+**Marital**  
+The result, again, is consistent with our common belief, that people who are not currently share a life with their partners are more likely to internally seek happiness, compared to those who are in a relationship.
+
+![alt text](../figs/marital_barchart.png)
+
+**Age**  
+The result suggest that as age grows, people experience larger portion of happiness from external source, which could be explained by our findings associate with marital status and parenthoods.
+
+![alt text](../figs/age_barchart.png)
+
+### Q3: What's the practical values of the findings?  
+The findings of this project offer valuable insights to enhance the quality of our lives and promote happiness:  
+- Prioritizing meaningful interactions with our loved ones:   
+    Whether it's watching movies, playing games, sharing meals, or celebrating special occasions like anniversaries and birthdays, dedicating time to cherish these moments with our loved ones can enrich our lives and create lasting memories. By fully immersing ourselves in these experiences, we can cultivate deeper connections and appreciate the beauty of shared moments.
+- Offering more care to the elderly:   
+    Spending time with family and children brings happiness to the lives of older individuals, especially for those who may no longer have their partners by their side. Therefore, accompanying them more frequently not only brings joy to their lives but also contributes to our own sense of happiness.
+- Learning to spend time with oneself:  
+     Enjoying a delightful dinner at home, immersing ourself in nature to appreciate life, or occasionally rewarding ourself with material goods, are all ways to break free from the pressures of work and daily life. These activities allow us to reconnect with and embrace our true selves, providing a much-needed respite from the stresses of life and gain happiness.
